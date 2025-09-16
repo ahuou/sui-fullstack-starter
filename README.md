@@ -2,6 +2,10 @@
 
 This folder is made to facilitate your sui coding experience. 
 
+In order to have this folder locally, please simply git clone it in your desired location
+/!\ If you are a Windows user, run this command first: git config --global core.longpaths true /!\
+
+
 It is organised into three axis/folder: 
 
 ### Move 
